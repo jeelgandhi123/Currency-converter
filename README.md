@@ -1,0 +1,3 @@
+Currency Converter is a sleek and user-friendly web application built with HTML, CSS, and JavaScript. It allows users to convert values between different currencies using real-time exchange rates fetched from an external API. Simply enter the amount, select the source and target currencies, and get instant, accurate conversion results. The interface is intuitive and responsive, making it easy to use on any device. Whether for travel, business, or learning, this converter offers a practical and efficient solution for currency conversion.
+
+💱 Live Demo:https://jeelgandhi-currency-converter.netlify.app/
